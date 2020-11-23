@@ -1,5 +1,7 @@
 # Openimages-subset-downloader
 a simple code to download a subset from openimages dataset
+you can see the classes from here: 
+https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=detection&c=%2Fm%2F0k4j
 
 How to use: 
 1. Give star for this repository and follow me on Github (if u don't mind >,<)
